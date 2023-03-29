@@ -1,0 +1,27 @@
+button{
+    background-color: rgb(127, 255, 182);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    display: flex;
+    margin-left: 2.3cm;
+}
+
+#resp{
+    width: 3.8cm;
+}
+
+.h1{
+    margin-left: 1cm ;
+}
+
+.container{
+    background-color: rgb(151, 252, 142);
+    display: flex;
+    align-items: center;
+    margin-top: 15%;
+   flex-direction: column;
+   padding: 4%;
+   width: 21%;
+   margin-left:37%;
+   margin-top: 10%;
+}
